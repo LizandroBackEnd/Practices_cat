@@ -6,7 +6,7 @@
 # Uso del proyecto 
 Clona o descarga el proyecto 
 ```bash
-git clone https://github.com/LizandroBackEnd/practice_dog.git
+git clone https://github.com/LizandroBackEnd/Practices_cat.git
 ```  
  
 Instala las dependencias 
